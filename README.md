@@ -18,18 +18,14 @@ This application can be used to access different varieties of online shops all u
 
 <p align="center"><img src="/public/images/screen1.png"></p>
 
-<h2>🧐 Features</h2>
+
+<h2>🧐 App Features</h2>
 
 Runs the app in the development mode.\
 Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
 Here're some of the project's best features:
 
 The page will reload if you make edits.\
-You will also see any lint errors in the console.
-*   News about various categories delivered in form of stories
-*   New from over 9 distinct categories
-
-<h2>App Features:</h2>
 
  * Login/Logout
     - User can login and Out of the application. They can login through google.
@@ -84,7 +80,6 @@ Technologies used in the project:
  * HTML
  * CSS
  * CSS 
-    - Bootstrap
     - Material-UI
 
 <h2>🛡️ License:</h2>
