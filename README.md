@@ -29,13 +29,30 @@ You will also see any lint errors in the console.
 *   News about various categories delivered in form of stories
 *   New from over 9 distinct categories
 
+<h2>App Features:</h2>
+
+ * Login/Logout
+    - User can login and Out of the application. They can login through google.
+ * Product Features
+    - Highlights features of the products/
+ * Product Portfolio
+    - Provide product comparison from select stores.
+ * View Ratings on Products
+    - User can rate their select products.
+ * User Can Customize Order
+    - A signed in user can customize their order of products.
+ * Description of Offered Services
+    - Detailed explanation provided to User on Services.
+
+
+
 <h2>Requirements:</h2>
  * Access to a computer, laptop or phone 
  * Access to a computer, laptop or phone
  * Ruby v.2.7.4
  * Rails v.7.0.4
  * NVM installed in you machine
- * Access to the internet <br>
+ * Access to the internet
 
 <h2>🛠️ Installation Steps:</h2>
 
