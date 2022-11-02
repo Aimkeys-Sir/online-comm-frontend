@@ -77,15 +77,14 @@ Please contribute using GitHub Flow. Create a branch add commits and open a pull
 
 Technologies used in the project:
 
+ * Jira
+    - Project management tool, which provided seamless workflow to track our project and accomplish discussed deliverables.
  * Ruby
-    - Rails
- * Javascript
-    - REACT
- * SQL/PostreSQL
- * HTML
- * CSS
- * CSS 
-    - Material-UI
+    - Used to support server-side web application MVC framework developed in Ruby.
+ * Reactjs
+    - Used this open-source js library to create Murife’s User Interface components that are rendered on display.
+ * CI/CD
+    - Continuous integration and development to meet app requirements and ensure top notch code quality and security.
 
 <h2>🛡️ License:</h2>
 
