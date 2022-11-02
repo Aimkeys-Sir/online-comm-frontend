@@ -9,6 +9,11 @@ This application can be used to access different varieties of online shops all u
 
 <h2>Contributed by;</h2>
 
+      Aimkeys Mwaura
+      Brian Wanjala
+      Faith Murithi
+      Peter Karanja
+      Okubasu Frankline
 
 <h2>🚀 Demo</h2>
 
@@ -17,7 +22,6 @@ This application can be used to access different varieties of online shops all u
 <h2>Project Screenshots:</h2>
 
 <p align="center"><img src="/public/images/screen1.png"></p>
-
 
 <h2>🧐 App Features</h2>
 
@@ -43,6 +47,7 @@ The page will reload if you make edits.\
 
 
 <h2>Requirements:</h2>
+
  * Access to a computer, laptop or phone 
  * Access to a computer, laptop or phone
  * Ruby v.2.7.4
