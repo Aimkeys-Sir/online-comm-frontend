@@ -59,7 +59,7 @@ The page will reload if you make edits.\
 <h2>🛠️ Installation Steps:</h2>
 
  *****
- * Clone this repo using this command : git clone "https://github.com/musyoki12/Franhel-Home-Retouch.git"
+ * Clone this repo using this command : git clone "https://github.com/Aimkeys-Sir/online-comm-frontend.git"
  * Unzip the downloaded files in a folder of choice.
  * Open the index file from the zipped file wih browser of choice but prefferably google chrome.
  * Open the index file from the zipped file wih browser of choice but preferably google chrome.
