@@ -1,3 +1,6 @@
+.input-text {
+    width: 80vw;
+}
 
 #h1 {
     font-size: 25px;
@@ -17,11 +20,17 @@
 
 #phone {
     display: content;
-    border: 1px solid red;
     width: 60vw ;
     align-items: center;
 }
 
+.buttons-flex {
+    display: flex;
+    flex-direction: column;
+    width: 55vw;
+    align-items: center;
+    margin-left: 20vw;
+}
 
 @media only screen and (min-width: 430px) {
 
@@ -37,6 +46,8 @@
         justify-content:center;
     }
 
+
+
     .account-text {
         padding-left: 1vw;
     }
@@ -44,8 +55,9 @@
     .buttons-flex {
         display: flex;
         flex-direction: column;
-        width: 28vw;
-        align-items: flex-end;
+        width: 30vw;
+        align-items: center;
+        margin-left: 10vw;
     }
 
     #laptop img {
@@ -64,6 +76,10 @@
     }
     #h5{
         font-size: 15px;
+    }
+
+    .input-text {
+        width: 30vw;
     }
 
 
