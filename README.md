@@ -16,7 +16,7 @@ This application can be used to access different varieties of online shops all u
 
 <h2>Project Screenshots:</h2>
 
-<p align="center"><img src="/public/images/screen1.png"></p>
+<p align="center"><img src="https://github.com/Aimkeys-Sir/online-comm-frontend/blob/main/Screenshot%20from%202022-11-25%2015-24-58.png?raw=true"></p>
 
 <h2>🧐 Features</h2>
 
@@ -40,7 +40,7 @@ You will also see any lint errors in the console.
 <h2>🛠️ Installation Steps:</h2>
 
  *****
- * Clone this repo using this command : git clone "https://github.com/musyoki12/Franhel-Home-Retouch.git"
+ * Clone this repo using this command : git clone "https://github.com/Aimkeys-Sir/online-comm-frontend/"
  * Unzip the downloaded files in a folder of choice.
  * Open the index file from the zipped file wih browser of choice but prefferably google chrome.
  * Open the index file from the zipped file wih browser of choice but preferably google chrome.
